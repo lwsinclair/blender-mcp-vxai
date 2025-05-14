@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/vxasi-blender-mcp-vxai-badge.png)](https://mseep.ai/app/vxasi-blender-mcp-vxai)
+
 # Blender MCP VXAI
 
 Pro Tip: You can use this to ask your agent to export the 3d model directly into the project you are working on to use them in your app instantly. [Demo](https://youtu.be/sHRI0nPan20?feature=shared)
